@@ -1,0 +1,16 @@
+﻿bad code to remove
+bad second code to remove
+```
+my line 5 of good code
+my line 6 of good code
+```
+bad code continues here
+bad code continues here
+bad code continues here
+
+```
+my line 7 of good code
+my line 8 of good code
+```
+bad code more here
+bad last line
