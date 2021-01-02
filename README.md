@@ -11,8 +11,8 @@ REQUIREMENTS:
 
 CUSTOMIZE:
 
-You can customize script to your needs, just have to modify delimiters tags, , location of folder with code files to scan (actually /instructions/), and location of where to save new snippets files with extracted code (actually "lab-activities" or "practice-exercises").
+You can customize script, just have to modify delimiters tags, , location of folder with code files to scan (actually /instructions/), and location of where to save new snippets files with extracted code (actually "lab-activities" or "practice-exercises").
 
 COLLABORATIONS:
 
-Collaborations to improve this script are always webcome :)
+Collaborations to improve script are always welcome.
